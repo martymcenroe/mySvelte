@@ -2,4 +2,4 @@
 	let src = '/tutorial/image.gif';
 </script>
 
-<img src={src} alt="A man dances." />
+<img {src} alt="A man dances." />
