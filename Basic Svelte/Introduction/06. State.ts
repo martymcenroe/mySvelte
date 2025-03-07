@@ -1,10 +1,11 @@
-//initial
+//solution
 <script>
-	let count = 0;
+  //a rune!
+  let count = $state(0);
 
-	function increment() {
-		// TODO implement
-	}
+  function increment() {
+    count += 1
+  }
 </script>
 
 <button onclick={increment}>
