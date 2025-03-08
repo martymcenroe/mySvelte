@@ -3,6 +3,18 @@ just working through the tutorial and posting the code, also some conversations 
 
 https://svelte.dev/tutorial/svelte/welcome-to-svelte
 
+FROM the website:
+============
+This tutorial is split into four main parts:
+
+    Basic Svelte (you are here)
+    Advanced Svelte
+    Basic SvelteKit
+    Advanced SvelteKit
+
+Each section will present an exercise designed to illustrate a feature. Later exercises build on the knowledge gained in earlier ones, so it’s recommended that you go from start to finish. If necessary, you can navigate via the menu above.
+============
+
 1. organize into folders
 2. number all lessons sequentially from beginning
 3. post the initial problem in a file with .ts extension
