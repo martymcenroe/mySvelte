@@ -21,3 +21,7 @@ Each section will present an exercise designed to illustrate a feature. Later ex
 4. post any LLM conversations additiaonal learnings in a same-named and same-numbered file with *.md extension
 
 5. N.B. ChatGPT gives answers to HTML/CSS/JS questions that get rendered inconsistently by Firefox and one expects, other browsers. The only way to solve this is to man-up and use the API and receive the response back in JSON. That will be another repo on this long-deferred step-up.
+
+There is no actual need for me to copy this code since it is already in 
+https://github.com/sveltejs/svelte.dev/tree/main
+it's just an internal discipline to stay focused and work through the tutorial
