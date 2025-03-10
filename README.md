@@ -13,6 +13,7 @@ This tutorial is split into four main parts:
     Advanced SvelteKit
 
 Each section will present an exercise designed to illustrate a feature. Later exercises build on the knowledge gained in earlier ones, so it’s recommended that you go from start to finish. If necessary, you can navigate via the menu above.
+
 ============
 
 1. organize into folders
