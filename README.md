@@ -3,7 +3,7 @@ just working through the tutorial and posting the code, also some conversations 
 
 https://svelte.dev/tutorial/svelte/welcome-to-svelte
 
-FROM the website:
+From the tutorial:
 ============
 This tutorial is split into four main parts:
 
